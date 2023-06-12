@@ -1,0 +1,9 @@
+* cl-semver
+
+Semantic Versions handling in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cldm/cl-semver.git |
+| commit  | b125d2c                                   |
+| systems | cl-semver                                 |
+|---------+-------------------------------------------|
