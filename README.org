@@ -7,4 +7,4 @@ Semantic Versions handling in Common Lisp
 | commit  | b125d2c                                   |
 | systems | cl-semver                                 |
 |---------+-------------------------------------------|
- 
+  
